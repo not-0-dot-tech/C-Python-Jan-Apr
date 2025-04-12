@@ -1,2 +1,8 @@
 a.out
 .vscode
+*.txt
+.vscode/
+.DS_Store
+*.o
+*.out
+*.exe
